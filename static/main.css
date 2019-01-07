@@ -344,7 +344,7 @@ p a:hover { text-decoration: underline; }
     color: #555;
     margin-top: 5px;
     padding: 10px 16px;
-    font-size: 17px;
+    font-size: 12px;
     box-shadow: 0 0 0 1px #e0e0e0, 0 0 0 2px transparent;
     transition: border-color 300ms ease;
     transition: border-radius 300ms ease-in-out;
